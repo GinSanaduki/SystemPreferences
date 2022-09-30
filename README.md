@@ -9,3 +9,10 @@ https://qiita.com/yoichiwo7/items/e3e13b6fe2f32c4c6120
 
 imagemagickのbrew installでメモリ枯渇を起こしたので・・・。
 
+tesseractの準備
+brew list tesseract
+/usr/local/Cellar/tesseract/4.1.1/share/tessdata/
+に
+https://github.com/tesseract-ocr/tessdata_best
+のjpn関連をダウンロードして配置
+
